@@ -32,3 +32,4 @@ img.save("twitch_qrcode.png")
 
 print
 ```
+<p>Lembrando que a url e nome do arquivo, pode ser alterado de acordo com a sua necessidade, dei um exemplo criando no site da Twitch</p>
