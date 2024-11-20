@@ -12,7 +12,7 @@
 <p>Rode o comando abaixo:</p>
 
 ```
-    import qrcode 
+import qrcode 
 
 data = "https://www.twitch.tv/"
 
