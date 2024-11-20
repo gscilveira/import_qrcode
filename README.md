@@ -10,7 +10,7 @@
 <p>Após isso, o ambiente estará pronto para ser usado</p>
 <p>Abra o aplicativo de sua preferencia que rode python, pode ser o aplicativo do mesmo, ou ate mesmo alguma KDE de desenvolvimento</p>
 <p>Rode o comando abaixo:</p>
-<py-script>
+```
     import qrcode 
 
 data = "https://www.twitch.tv/"
