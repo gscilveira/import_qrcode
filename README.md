@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Guilherme Cavalieri, este trabalho foi desenvolvido para a faculdade, espero que gostem</h1>
 <h2>Primeiramente, este codigo foi feito 100% em python, desenvolvi um gerador de QR Code, onde vou mostrar como é facil poder usar o mesmo</h2>
-<h3>Em seu computador, instale o <link rel="stylesheet" href="https://www.python.org/downloads/">Python</h3>
+<h3>Em seu computador, instale o <a href="">Python</a></h3>
 <p>Após intalado, devemos rodar mais dois códigos para instalarmos as bibliotecas, que fazem com que o nosso gerador de QR Code possa funcionar</p>
 <p>Clique no logo do windows, no canto inferior da tela, pesquise por "CMD", abra como administrador</p>
 <p>Após abrir o cmd, rode o comando <code>py -3 -m ensurepip</code></p>
